@@ -1,0 +1,27 @@
+.text-center{
+  text-align: center;
+  margin:0px;
+}
+
+.container{
+  text-align: center;
+  background-color: #272626;
+  padding: 10px;
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row{
+  padding:2px;
+}  
+
+.Input{
+  margin: 8px;
+  width: 395px;
+  height: 140px;
+  font-size: 40px;
+  border-color: black;
+  font-weight:800;
+  padding-top:50px;
+}

@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: antiquewhite;
+}
+
+button {
+  width: 98px;
+  height: 70px;
+  color:black;
+  background-color:darkgray;
+  font-size:20px;
+  cursor:pointer;
+}
